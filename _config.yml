@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghavendra Selvan"
+title                    : "Jonathan Ortved Melcher"
 title_separator          : "-"
-name                     : &name "Raghavendra Selvan"
-description              : &description "personal description"
-url                      : https://raghavian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jonathan Ortved Melcher"
+description              : &description "PhD Student at the Niels Bohr Institute"
+url                      : https://JonathanOrtvedMelcher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "raghavian/raghavian.github.io"
+repository               : "JonathanOrtvedMelcher/JonathanOrtvedMelcher.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "site-logo.png" # Open Graph/Twitter default site image
+og_image                 :  
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raghav{endra Selvan}"
+  name             : "Jonathan Ortved Melcher"
   avatar           : "rs.png"
   bio              : "Assistant Professor (TT) @ Machine Learning Section, University of Copenhagen. ELLIS Member." 
   employer         : 
