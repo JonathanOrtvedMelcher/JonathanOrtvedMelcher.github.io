@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications of Raghavendra Selvan"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,9 +12,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Publication Types
 
-- [Refereed Conference/ Workshop Papers](#refereed-conference-or-workshop-papers)
+- [Publication Types](#publication-types)
+- [Refereed Conference or Workshop Papers](#refereed-conference-or-workshop-papers)
 - [Journal Articles](#journal-articles)
-- [Preprints](#preprints-or-under-review)
+- [Preprints or Under Review](#preprints-or-under-review)
 - [Monographs](#monographs)
 
 

@@ -81,41 +81,41 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Ortved Melcher"
-  avatar           : "rs.png"
-  bio              : "Assistant Professor (TT) @ Machine Learning Section, University of Copenhagen. ELLIS Member." 
+  avatar           : "profile.png"
+  bio              : "PhD Student @ the Niels Bohr Institute, University of Copenhagen." 
   employer         : 
-  location         : "Bangalore/Copenhagen"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=R9VBQ54AAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "raghav@di.ku.dk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://carbontracker.info/"
+  location         : "Copenhagen"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=KuUoQ6gAAAAJ&hl=da"
+  email            : "first_name.last_name at nbi.ku.dk"
+  researchgate     : "https://www.researchgate.net/profile/Jonathan-Melcher"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "raghavian"
+  github           : "JonathanOrtvedMelcher"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jonathan-ortved-melcher-05777a1b9/"
+  orcid            : "https://orcid.org/0009-0006-9473-1200"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "raghavian"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  wordpress        : "https://blog.sarvajna.in/"
+  wordpress        : 
 
 # Reading Files
 include:
