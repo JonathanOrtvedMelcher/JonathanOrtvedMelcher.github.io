@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Projects and Supervision"
-permalink: /projects_and_supervision/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
@@ -13,18 +13,3 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endif %}
 
 ## Arctic Push
-
-
-Masters Theses
-======
-
-**Co-supervisor**
-* Marc
-
----
-
-Course Projects
-======
-**Primary Supervisor**
-* Jeppe
----

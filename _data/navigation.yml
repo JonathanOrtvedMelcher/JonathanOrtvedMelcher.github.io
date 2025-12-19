@@ -1,9 +1,21 @@
 # main links links
 main:
-  - title: "Teaching and Outreach"
-    url: /teaching_and_outreach/    
 
-        
-  - title: "Projects and Supervision"
-    url: /projects_and_supervision/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/    
     
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Supervision"
+    url: /supervision/
+        
+  - title: "Outreach"
+    url: /outreach/    
+
+   
+    #  - title: "Guide"
+    #url: /markdown/
