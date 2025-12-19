@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
-Talks
-======
+
+## Talks
 * 2025
-  * Slåbrok
-  * 
+  * "Menneskeskabte klimaforandringer", lecture at Regensen, June 10
+* 2023
+  * Science Communicator at Roskilde Festival, July 26 & 27
