@@ -13,16 +13,8 @@ redirect_from:
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Publication Types
 
-- [Publication Types](#publication-types)
-- [Refereed Conference or Workshop Papers](#refereed-conference-or-workshop-papers)
-- [Journal Articles](#journal-articles)
-- [Preprints or Under Review](#preprints-or-under-review)
-- [Monographs](#monographs)
-
-
-## Refereed Conference or Workshop Papers
+<!-- ## Refereed Conference or Workshop Papers
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -30,7 +22,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   <li>    {% include archive-single.html %} </li>
   {% endif %}
 {% endfor %}
-</ol>
+</ol> -->
 
 ## Journal Articles
 ---
@@ -42,8 +34,18 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endfor %}
 </ol>
 
+## Conference Posters
+---
+<ol>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'poster' %}
+     <li> {% include archive-single.html %} </li>
+  {% endif %}
+{% endfor %}
+</ol>
 
-## Preprints or Under Review
+
+<!-- ## Preprints or Under Review
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -51,9 +53,9 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
       <li> {% include archive-single.html %} </li>
   {% endif %}
 {% endfor %}
-</ol>
+</ol> -->
 
-## Monographs
+<!-- ## Monographs
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -62,7 +64,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   {% endif %}
 {% endfor %}
 </ol>
-
+ -->
 
 <!-- Peer-reviewing
 ---
