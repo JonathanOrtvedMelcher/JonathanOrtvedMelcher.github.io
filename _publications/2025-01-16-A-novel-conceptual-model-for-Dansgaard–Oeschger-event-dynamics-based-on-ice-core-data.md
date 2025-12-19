@@ -8,5 +8,5 @@ date: 2025-01-16
 venue: 'Climate of the past'
 pubtype: 'journal'
 project: ''
-paperurl: https://arxiv.org/abs/1902.11050
+paperurl: https://doi.org/10.5194/cp-21-115-2025
 ---
