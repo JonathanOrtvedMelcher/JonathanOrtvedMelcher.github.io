@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Outreach"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -16,3 +16,10 @@ Courses
 ======
 * Foodphysics (2024,2025)
   * Responsibilites: test
+
+
+
+Talks
+---
+* 2025
+  * Slåbrok

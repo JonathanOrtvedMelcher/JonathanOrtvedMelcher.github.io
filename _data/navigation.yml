@@ -1,26 +1,9 @@
 # main links links
 main:
-  - title: "Team"
-    url: /people/
+  - title: "Teaching and Outreach"
+    url: /teaching_and_outreach/    
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Supervision"
-    url: /supervision/
         
-  - title: "Projects"
-    url: /projects/
+  - title: "Projects and Supervision"
+    url: /projects_and_supervision/
     
-  - title: "CV"
-    url: /cv/
-
-  - title: "Outreach"
-    url: /outreach/    
-
-   
-    #  - title: "Guide"
-    #url: /markdown/
