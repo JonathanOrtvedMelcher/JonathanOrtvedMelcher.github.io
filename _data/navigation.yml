@@ -7,11 +7,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
-  - title: "Supervision"
-    url: /supervision/
+#  - title: "Supervision"
+#    url: /supervision/
         
   - title: "Outreach"
     url: /outreach/    
