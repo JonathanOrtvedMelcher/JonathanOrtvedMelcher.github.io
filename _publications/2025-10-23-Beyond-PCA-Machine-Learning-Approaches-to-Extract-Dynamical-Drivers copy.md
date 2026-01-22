@@ -4,7 +4,6 @@ Extract Dynamical Drivers"
 authbefore: 
 authafter: ", Jens H. Christensen, Chongyang Zhang, Peter L. Langen, Shuting Yang"
 collection: publications
-permalink: /publication/2025-10-23-Beyond-PCA-Machine-Learning-Approaches-to-Extract-Dynamical-Drivers
 date: 2025-10-23
 venue: 'Nationalt Center for Klimaforsknings Annual Symposium'
 pubtype: 'poster'
