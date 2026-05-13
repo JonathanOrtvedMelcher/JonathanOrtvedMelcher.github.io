@@ -34,6 +34,17 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endfor %}
 </ol>
 
+## Conference Talks
+---
+<ol>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'talk' %}
+     <li> {% include archive-single.html %} </li>
+  {% endif %}
+{% endfor %}
+</ol>
+
+
 ## Conference Posters
 ---
 <ol>

@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+## Co-Suppervision
+
+* Marc Peradalta I Negre, master thesis, Large-scale causal drivers of winter precipitation in Europe and the North Atlantic, 2026
+* Jeppe Grejs, project outside course scope, Understanding and predicting precipitation over Denmark using explainable AI methods, 2025
+
 ## Guest Lecturer
 
 * Climate Physics (2023, 2024)
