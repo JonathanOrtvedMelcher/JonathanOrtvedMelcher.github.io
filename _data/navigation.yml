@@ -14,7 +14,10 @@ main:
 #    url: /supervision/
         
   - title: "Outreach"
-    url: /outreach/    
+    url: /outreach/
+
+  - title: "ArcticPush"
+    url: /arctic_push.html
 
    
     #  - title: "Guide"

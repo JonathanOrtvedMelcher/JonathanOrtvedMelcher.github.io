@@ -12,7 +12,12 @@ Jonathan Ortved Melcher is a PhD student in physics at the Niels Bohr Institute,
 CV ([download](files/Jonathan_Ortved_Melcher_CV.pdf)) 
 
 
+**[ArcticPush Workshop 2026](/arctic_push.html)** join us 9–10 November 2026 in Copenhagen to discuss Arctic–midlatitude linkages in a changing climate. Abstract deadline 7 October 2026, free of charge.
+
 ## News
+* 2026-09: JOM will present a poster at the S2S2D Conference in Reading, showing how a regression mixture CVAE can uncover nonlinear circulation regimes as sources of predictability for European precipitation.
+* 2026-08: JOM will give a talk at the HAMLET-PHYSICS Conference in Copenhagen on interpretable, target aware deep learning for extracting hidden states from high dimensional physical fields, demonstrated on atmospheric circulation.
+* 2026-06: JOM had a [poster](https://jonathanortvedmelcher.github.io/_pages/files/Poster_Poiner_center_Arctic_AI.pdf) at the Pioneer Center for AI arctic workshop discussing the pole problem in relation to ML.
 * 2026-05: JOM attended the EGU General Assembly in Vienna, giving a [talk](https://doi.org/10.5194/egusphere-egu26-7026), and co-authoring a [poster](https://meetingorganizer.copernicus.org/EGU26/EGU26-6817.html)
 * 2026-04: [Media](https://www.sn.dk/art6545249/stevns-kommune/kultur/stroebys-groenlandsfarer-en-klimahistorie-fra-sidste-istid-til-den-naere-fremtid/) appearance in relation to the outreach lecture at Strøby Kirke
 * 2026-04: [Outreach](https://sogn.dk/stroeby/kalender/event/3238015?cHash=ecf52d528b8024447da4bfb4cdb7375c) lecture at Strøby Kirke on field work in Greenland, climate change, tipping points, and extreemes. 

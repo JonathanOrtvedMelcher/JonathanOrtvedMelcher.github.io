@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ArcticPush Workshop 2026 &middot; Arctic&ndash;midlatitude linkages in a changing climate</title>
+<style>
+  :root {
+    --navy:      #14405f;
+    --navy-dark: #0f3049;
+    --heading:   #1f6ea8;
+    --body:      #1c3f57;
+    --box-bg:    #e8f1f8;
+    --box-rule:  #1f6ea8;
+    --rule:      #d3e0ea;
+    --page:      #ffffff;
+    --measure:   700px;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    margin: 0;
+    padding: 0 24px 72px;
+    background: var(--page);
+    color: var(--body);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+  }
+
+  .page { max-width: var(--measure); margin: 0 auto; }
+
+  /* ---------- Header ---------- */
+
+  .masthead {
+    background: var(--navy);
+    color: #fff;
+    padding: 40px 40px 44px;
+    margin-top: 32px;
+  }
+
+  .eyebrow {
+    margin: 0 0 18px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+
+  .masthead h1 {
+    margin: 0 0 22px;
+    font-size: 34px;
+    line-height: 1.22;
+    font-weight: 700;
+    letter-spacing: -0.005em;
+  }
+
+  .masthead p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #dce8f1;
+  }
+
+  /* ---------- Key dates box ---------- */
+
+  .keydates {
+    background: var(--box-bg);
+    border-left: 5px solid var(--box-rule);
+    padding: 20px 24px;
+    margin: 28px 0 0;
+  }
+
+  .keydates dl { margin: 0; }
+
+  .keydates div + div { margin-top: 6px; }
+
+  .keydates dt,
+  .keydates dd {
+    display: inline;
+    margin: 0;
+    font-size: 15.5px;
+  }
+
+  .keydates dt { font-weight: 700; }
+  .keydates dt::after { content: " "; }
+
+  /* ---------- Button ---------- */
+
+  .cta-row { text-align: center; margin: 34px 0 44px; }
+
+  .button {
+    display: inline-block;
+    background: var(--navy-dark);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 34px;
+    transition: background 0.15s ease;
+  }
+
+  .button:hover,
+  .button:focus-visible { background: var(--navy); }
+
+  .button:focus-visible { outline: 3px solid var(--heading); outline-offset: 3px; }
+
+  /* ---------- Sections ---------- */
+
+  section { margin-bottom: 38px; }
+
+  h2 {
+    color: var(--heading);
+    font-size: 22px;
+    line-height: 1.3;
+    font-weight: 700;
+    margin: 0 0 14px;
+  }
+
+  p { margin: 0 0 16px; }
+
+  p:last-child { margin-bottom: 0; }
+
+  .lead-in { margin-bottom: 10px; }
+
+  /* ---------- Topics list ---------- */
+
+  ul.topics {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    column-count: 2;
+    column-gap: 36px;
+  }
+
+  ul.topics li {
+    padding-left: 18px;
+    margin-bottom: 7px;
+    position: relative;
+    break-inside: avoid;
+  }
+
+  ul.topics li::before {
+    content: "\2022";
+    position: absolute;
+    left: 0;
+    color: var(--heading);
+  }
+
+  /* ---------- Contacts ---------- */
+
+  .contacts {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 4px;
+  }
+
+  .contact {
+    background: var(--box-bg);
+    border-top: 4px solid var(--box-rule);
+    padding: 18px 20px 20px;
+  }
+
+  .contact .role {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--heading);
+    margin-bottom: 8px;
+  }
+
+  .contact .name {
+    display: block;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 2px;
+  }
+
+  .contact .org {
+    display: block;
+    font-size: 14.5px;
+    margin-bottom: 8px;
+  }
+
+  .contact a {
+    font-size: 14.5px;
+    color: var(--heading);
+    text-decoration: none;
+    word-break: break-word;
+  }
+
+  .contact a:hover { text-decoration: underline; }
+
+  /* ---------- Responsive ---------- */
+
+  @media (max-width: 700px) {
+    body { padding: 0 18px 56px; }
+    .masthead { padding: 30px 26px 32px; margin-top: 20px; }
+    .masthead h1 { font-size: 27px; }
+    h2 { font-size: 20px; }
+    ul.topics { column-count: 1; }
+    .contacts { grid-template-columns: 1fr; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="masthead">
+    <p class="eyebrow">ArcticPush Workshop 2026</p>
+    <h1>Arctic&ndash;midlatitude linkages<br>in a changing climate</h1>
+    <p>9&ndash;10 November 2026 &middot; lunch to lunch<br>Niels Bohr Building, University of Copenhagen</p>
+  </header>
+
+  <div class="keydates">
+    <dl>
+      <div><dt>Abstract deadline:</dt> <dd>7 October 2026</dd></div>
+      <div><dt>Registration deadline:</dt> <dd>23 October 2026</dd></div>
+      <div><dt>Participation:</dt> <dd>free of charge</dd></div>
+    </dl>
+  </div>
+  
+  <div class="cta-row">
+    <a class="button" href="https://event.au.dk/events/arcticpush-workshop-2026">Register here</a>
+  </div>
+
+
+  <section>
+    <h2>The challenge of Arctic impacts on mid-latitude weather</h2>
+    <p>The Arctic is warming much faster than the global average, leading to declining sea ice, changing heat and moisture transport, and a range of other environmental changes. A key scientific question is how these changes influence weather and climate in the Northern Hemisphere mid-latitudes.</p>
+    <p>Over the past decade, numerous mechanisms have been proposed to explain Arctic&ndash;midlatitude linkages. Yet major uncertainties remain regarding causality, state dependence, and the relative importance of different dynamical pathways. Similar weather anomalies can arise through different dynamical pathways, making it difficult to establish causality. Moreover, interactions between the Arctic and mid-latitudes are often bidirectional rather than one-way.</p>
+  </section>
+
+  <section>
+    <h2>ArcticPush and the workshop</h2>
+    <p>Within ArcticPush, we investigate Arctic&ndash;midlatitude connections using observations, reanalyses, coupled climate-model experiments, machine learning, and causal inference methods.</p>
+    <p>This workshop aims to bring together researchers working on observations, climate dynamics, machine learning, causal inference, and numerical modeling to discuss current understanding of Arctic&ndash;midlatitude linkages. Rather than focusing on a single mechanism, we seek a broad exchange of ideas on where the evidence is strongest, where uncertainties remain, and what is needed to advance the field.</p>
+    <p>The workshop will include talks, posters, and discussion sessions, with the goal of fostering new perspectives and collaborations across disciplines. Contributions may also feed into a possible joint synthesis paper on the current state of knowledge.</p>
+  </section>
+
+  <section>
+    <h2>Contributed talks and posters</h2>
+    <p>We invite abstracts for short oral presentations. Depending on the number of submissions, some contributions may be offered as posters.</p>
+    <p class="lead-in">Topics of interest include:</p>
+    <ul class="topics">
+      <li>Arctic amplification</li>
+      <li>Arctic&ndash;midlatitude linkages and causal pathways</li>
+      <li>Atmospheric circulation, blocking, and jet-stream variability</li>
+      <li>Greenland ice sheet change</li>
+      <li>Heat and moisture transport</li>
+      <li>Machine learning, causal inference, and weather-pattern analysis</li>
+      <li>Numerical experiments and climate-model studies</li>
+      <li>Pre-conditioning and precursor patterns</li>
+      <li>Sea ice change and variability</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Practical information</h2>
+    <p>Coffee breaks and lunches during the workshop will be provided. Participants are responsible for arranging and covering their own travel and accommodation.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <div class="contacts">
+      <div class="contact">
+        <span class="role">Contact</span>
+        <span class="name">Peter L. Langen</span>
+        <span class="org">Aarhus University</span>
+        <a href="mailto:plangen@envs.au.dk">plangen@envs.au.dk</a>
+      </div>
+      <div class="contact">
+        <span class="role">Contact</span>
+        <span class="name">Jens Hesselbjerg Christensen</span>
+        <span class="org">University of Copenhagen</span>
+        <a href="mailto:hesselbjerg@nbi.ku.dk">hesselbjerg@nbi.ku.dk</a>
+      </div>
+      <div class="contact">
+        <span class="role">Contact</span>
+        <span class="name">Shuting Yang</span>
+        <span class="org">Danish Meteorological Institute</span>
+        <a href="mailto:sy@dmi.dk">sy@dmi.dk</a>
+      </div>
+    </div>
+  </section>
+
+</div>
+</body>
+</html>
