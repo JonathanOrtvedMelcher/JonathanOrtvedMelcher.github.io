@@ -1,0 +1,6 @@
+Add ArcticPush workshop banner and update news
+
+Advertise the ArcticPush Workshop 2026 with a nav link, landing page,
+and a callout above the News section on the homepage; add recent news
+entries (S2S2D, HAMLET-PHYSICS, Pioneer Center poster) and the
+corresponding poster PDF.
